@@ -1,1 +1,5 @@
-print("assassin");
+def Assassin ():
+    return (
+        print ("new")
+    )
+Assassin();
